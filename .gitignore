@@ -21,3 +21,5 @@ dist-ssr
 # Env
 .env
 .env.local
+
+*.tsbuildinfo
